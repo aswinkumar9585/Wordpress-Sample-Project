@@ -1,2 +1,2 @@
-# Selling-Laptop-Sample-Project
+# Wordpress Sample-Project
 A Word Press e commerece Project
